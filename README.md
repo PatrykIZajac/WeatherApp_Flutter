@@ -8,11 +8,11 @@ An example weather app that show actual and next days weather in currently place
 ## Some images from app
 
 ![mainScreen](https://github.com/PatrykIZajac/WeatherApp_flutter/blob/master/Assets/mainScreen.png)
-![Settings](https://github.com/PatrykIZajac/WeatherApp/blob/master/Assets/Settings.png)
-![Map](https://github.com/PatrykIZajac/WeatherApp/blob/master/Assets/Map.png)
-![favList](https://github.com/PatrykIZajac/WeatherApp/blob/master/Assets/favList.png)
-![MapPanel](https://github.com/PatrykIZajac/WeatherApp/blob/master/Assets/MapPanel.png)
-![normalMode](https://github.com/PatrykIZajac/WeatherApp/blob/master/Assets/normalMode.png)
+![Settings](https://github.com/PatrykIZajac/WeatherApp_flutter/blob/master/Assets/Settings.png)
+![Map](https://github.com/PatrykIZajac/WeatherApp_flutter/blob/master/Assets/Map.png)
+![favList](https://github.com/PatrykIZajac/WeatherApp_flutter/blob/master/Assets/favList.png)
+![MapPanel](https://github.com/PatrykIZajac/WeatherApp_flutter/blob/master/Assets/MapPanel.png)
+![normalMode](https://github.com/PatrykIZajac/WeatherApp_flutter/blob/master/Assets/normalMode.png)
 
 ## Libraries
 
