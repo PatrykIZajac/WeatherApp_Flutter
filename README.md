@@ -26,3 +26,4 @@ An example weather app that show actual and next days weather in currently place
 * [toggle switch](https://pub.dev/packages/toggle_switch)
 * [Intl](https://pub.dev/packages/intl)
 * [timezone](https://pub.dev/packages/intl)
+* MVVM Architecture
