@@ -1,0 +1,12 @@
+{
+  "WindText": "Wiatr",
+  "PressureText": "Ciśnienie",
+  "HumidityText": "Wilgotność",
+  "SunsetText": "Zachód słońca",
+  "SearchInputText": "Szukaj",
+  "TemperatureMeasureText": "Jednostka temperatury",
+  "LanguageText": "Język",
+  "SpeedUnit": "jednostka prędkości",
+  "chooseText": "Wybierz",
+  "darkModeText": "Ciemny motyw"
+}

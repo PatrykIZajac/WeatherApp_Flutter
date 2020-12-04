@@ -1,0 +1,12 @@
+{
+  "WindText": "Wind",
+  "PressureText": "Pressure",
+  "HumidityText": "Humidity",
+  "SunsetText": "Sunset",
+  "SearchInputText": "Search",
+  "TemperatureMeasureText": "Temperature Measure",
+  "LanguageText": "Language",
+  "SpeedUnit": "Speed unit",
+  "chooseText": "Choose",
+  "darkModeText": "Dark Mode"
+}
