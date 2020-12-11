@@ -3,7 +3,7 @@
 [![version](https://img.shields.io/badge/Android_Studio-4.0-green.svg)](https://developer.android.com/studio/)
 [![version](https://img.shields.io/badge/Flutter-1.22.4-blue.svg)](https://flutter.dev/)
 
-An example weather app that show actual and next days weather in currently place.
+An example weather app that show actual weather in currently place.
 
 ## Some images from app
 
